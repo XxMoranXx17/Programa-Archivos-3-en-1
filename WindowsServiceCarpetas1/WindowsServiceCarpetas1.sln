@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServiceCarpetas1", "WindowsServiceCarpetas1\WindowsServiceCarpetas1.csproj", "{D40B62A8-F77C-4840-87A7-B638AD6D167B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CarpetasServicio.Installer", "CarpetasServicio\CarpetasServicio.vdproj", "{0B5B2810-ABE8-4FD7-BB5A-ABFBBC43F153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40B62A8-F77C-4840-87A7-B638AD6D167B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40B62A8-F77C-4840-87A7-B638AD6D167B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40B62A8-F77C-4840-87A7-B638AD6D167B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40B62A8-F77C-4840-87A7-B638AD6D167B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B5B2810-ABE8-4FD7-BB5A-ABFBBC43F153}.Debug|Any CPU.ActiveCfg = Debug
+		{0B5B2810-ABE8-4FD7-BB5A-ABFBBC43F153}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F514B90-5CF1-4278-88EB-30353FD76986}
+	EndGlobalSection
+EndGlobal

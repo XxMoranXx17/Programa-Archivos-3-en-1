@@ -1,0 +1,11 @@
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\obj\Debug\WindowsServiceCarpetas1.csproj.AssemblyReference.cache
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\obj\Debug\WindowsServiceCarpetas1.csproj.SuggestedBindingRedirects.cache
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\obj\Debug\WindowsServerCarpetas.Archivos.resources
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\obj\Debug\WindowsServiceCarpetas1.ProjectInstaller.resources
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\obj\Debug\WindowsServiceCarpetas1.csproj.GenerateResource.cache
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\obj\Debug\WindowsServiceCarpetas1.csproj.CoreCompileInputs.cache
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\bin\Debug\WindowsServiceCarpetas1.exe.config
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\bin\Debug\WindowsServiceCarpetas1.exe
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\bin\Debug\WindowsServiceCarpetas1.pdb
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\obj\Debug\WindowsServiceCarpetas1.exe
+C:\Users\JSic\source\repos\WindowsServiceCarpetas1\WindowsServiceCarpetas1\obj\Debug\WindowsServiceCarpetas1.pdb
